@@ -1,0 +1,4 @@
+Crear una clase AlarmaEmergencia con herencia de Alarma 3.
+Crear un metodo m1 que imprima "emergencia 1".
+Crear un metodo m2 que llame el m1 del super("alarma 1"), luego un "/" y 
+por ultimo llamar m2 del super ("timbre 1"). 
