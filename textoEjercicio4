@@ -1,0 +1,4 @@
+Primero se creo la clases Soldado con herencia con Militar.
+Sobreescribir los métodos llamando los metodos anteriores y haciendo multiplicaciones
+restas y diviciones para que se ajustaran a las caracteristicas del soldado
+Crear el DriverMilitar que muestra todos los datos de cada tipo de Militar
